@@ -65,6 +65,8 @@ from tensorflow_datasets.image.inaturalist import INaturalist2017
 from tensorflow_datasets.image.lfw import LFW
 from tensorflow_datasets.image.lost_and_found import LostAndFound
 from tensorflow_datasets.image.lsun import Lsun
+from tensorflow_datasets.image.lsun_rl_prep import LsunRLPrep
+from tensorflow_datasets.image.lsun_room_layout import LsunRoomLayout
 from tensorflow_datasets.image.malaria import Malaria
 from tensorflow_datasets.image.mnist import EMNIST
 from tensorflow_datasets.image.mnist import FashionMNIST
@@ -84,6 +86,7 @@ from tensorflow_datasets.image.quickdraw import QuickdrawBitmap
 from tensorflow_datasets.image.resisc45 import Resisc45
 from tensorflow_datasets.image.rock_paper_scissors import RockPaperScissors
 from tensorflow_datasets.image.scene_parse_150 import SceneParse150
+from tensorflow_datasets.image.scenenet_rgbd import SceneNetRGBD
 from tensorflow_datasets.image.shapes3d import Shapes3d
 from tensorflow_datasets.image.smallnorb import Smallnorb
 from tensorflow_datasets.image.so2sat import So2sat
